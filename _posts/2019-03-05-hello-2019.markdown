@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "欢迎"
+subtitle:   " \"Hello, world\""
+date:       2019-03-05 00:00:00
+author:     "minl"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Life
+---
+
+> “Welclome.”
+
+终于折腾了一下blog, 接下来可以好好记录一下。
+
+谢谢原作者。
+
+![](/img/post-lovely-mia.jpg)
+
+
